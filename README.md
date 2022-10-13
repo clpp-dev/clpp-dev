@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Desarrollador FrontEnd Junior, me encanta aprender cada día y aplicar mis conocimientos en cada proyecto que realizo, aplicando nuevos conceptos, tecnologías, lenguajes o prácticas de desarrollo adecuadas para que los proyectos se realicen con la mayor profesionalidad y compromiso.
+I am a Junior FrontEnd Developer, I love to learn every day and apply my knowledge in each project I carry out, applying new concepts, technologies, languages or appropriate development practices so that the projects are carried out with the greatest professionalism and commitment.
 
 
 ## 🌐 Socials:
